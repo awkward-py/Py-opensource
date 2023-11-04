@@ -1,8 +1,4 @@
-
-# This projects is under Yash Joshi's leadership
-
-# Yash Joshi's Py-open source Website
-
+# Py-open source Website
 
 ## Introduction
 
